@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "image": "https://media.licdn.com/dms/image/v2/D5612AQFNpj0ljWj-FQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1693237324488?e=2147483647&v=beta&t=Ev7qqPYN6moRTIIaByG93GLtr7kXfLIfh30Jk2lK_gc",
+    "title": "Hospital Management System",
+    "description": "A system to manage patient records, appointments, doctors, and billing with an admin dashboard.",
+    "tags": ["React", "Node.js", "MongoDB", "Express"],
+
+    "repoLink": "https://github.com/pandeyji/hospital-management",
+    "demoLink": "https://hospital-demo.vercel.app"
+  },
+  {
+    "id": 2,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdmKWH57GTKowhxAtle_iukFcTiONAiwFCrQ&s",
+    "title": "Sastri Ji Portfolio",
+    "description": "A professional portfolio website showcasing profile, achievements, and contact details.",
+    "tags": ["React", "SCSS", "Framer Motion"],
+    "repoLink": "https://github.com/pandeyji/sastri-portfolio",
+    "demoLink": "https://sastri-portfolio.vercel.app"
+  },
+  {
+    "id": 3,
+    "image": "https://www.sorryonmute.com/wp-content/uploads/2023/01/137_Best-project-management-software-ecommerce.png",
+    "title": "E-Commerce Store",
+    "description": "An online shopping platform with product listing, cart, and checkout functionality.",
+    "tags": ["React", "Redux", "Node.js", "Stripe"],
+    "repoLink": "https://github.com/pandeyji/ecommerce-store",
+    "demoLink": "https://ecommerce-demo.vercel.app"
+  },
+  {
+    "id": 4,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdwB0iswbCH1_Nhd9-mKyOXQY1KX5N1Y7Ujw&s",
+    "title": "Education Website",
+    "description": "A learning platform with courses, lessons, and user-friendly UI for students.",
+    "tags": ["HTML", "CSS", "JavaScript", "Bootstrap"],
+    "repoLink": "https://github.com/pandeyji/education-website",
+    "demoLink": "https://education-demo.vercel.app"
+  },
+  {
+    "id": 5,
+    "image": "https://www.apriorit.com/wp-content/uploads/2022/05/10-chatbots-benefits.png",
+    "title": "Chatbot App",
+    "description": "An AI-based chatbot application that interacts with users and provides automated responses.",
+    "tags": ["React", "OpenAI API", "Node.js"],
+    "repoLink": "https://github.com/pandeyji/chatbot-app",
+    "demoLink": "https://chatbot-demo.vercel.app"
+  }
+]
